@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>6192</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>6193</string>
+                </dict>
+                <key>Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>6197</string>
+                </dict>
+                <key>Locked Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>6201</string>
+                </dict>
+                <key>Locked Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>6297</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6242</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>6243</string>
+                </dict>
+                <key>Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>6247</string>
+                </dict>
+                <key>Locked Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>6255</string>
+                </dict>
+                <key>Locked Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>6301</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
